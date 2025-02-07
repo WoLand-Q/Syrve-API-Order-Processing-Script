@@ -150,7 +150,7 @@ def process_orders(orders):
         print(f"{phone}: {count} раз(а)")
 
 def main():
-    api_login = "bfe0a40491bc4b0ea64ad0e237d71af0"
+    api_login = "ВАШ_API_ЛОГИН"
     date_from = "2025-02-05 00:00:00.000"
     date_to = "2025-02-05 23:59:59.999"
 
